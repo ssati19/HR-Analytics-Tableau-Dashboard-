@@ -7,4 +7,6 @@ In addition to these metrics, the dashboard provides insights into employee perf
 The dashboard also includes interactive features that allow users to filter and drill down into specific data sets, such as department, location, or job level. This provides HR professionals with a more detailed view of their data, allowing them to identify patterns and trends more easily.
 
 Overall, the HR Analytics Dashboard project using Tableau is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Tableau's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
+
+
 To view the Tableau Dashboard ,visit my profile : https://public.tableau.com/app/profile/shivani1732/viz/HRANALYTICSPROJECT_16769940812840/HRANALYTICSDASHBOARD?publish=yes
